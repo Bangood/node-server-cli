@@ -1,5 +1,5 @@
 {
-  "name": "node-server-cli",
+  "name": "nodejs-server-cli",
   "version": "1.0.0",
   "description": "node server cli",
   "bin": {
